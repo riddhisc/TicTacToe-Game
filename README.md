@@ -1,67 +1,78 @@
-🕹️ TicTacToe-Game
-This project is a web-based implementation of the classic Tic-Tac-Toe game, developed using React.
+# 🎩 TicTacToe-Game
 
-✨ Features
-Interactive Gameplay:
-Play against another human player in a turn-based format.
+This project is a web-based implementation of the classic **Tic-Tac-Toe** game, developed using **React**.
 
-Responsive Design:
-Enjoy smooth gameplay across various device sizes.
+## ✨ Features
 
-Real-Time Updates:
-The game board updates instantly with each move.
+- **Interactive Gameplay**:  
+  Play against another human player in a turn-based format.
 
-🚀 Installation
+- **Responsive Design**:  
+  Enjoy smooth gameplay across various device sizes.
+
+- **Real-Time Updates**:  
+  The game board updates instantly with each move.
+
+## 🚀 Installation
+
 To run this project locally, follow these steps:
 
-Clone the repository:
+1. **Clone the repository**:
 
-bash
-Copy code
-git clone https://github.com/riddhisc/TicTacToe-Game.git
-Navigate to the project directory:
+   ```bash
+   git clone https://github.com/riddhisc/TicTacToe-Game.git
+   ```
 
-bash
-Copy code
-cd TicTacToe-Game
-Install dependencies:
+2. **Navigate to the project directory**:
 
-bash
-Copy code
-npm install
-▶️ Usage
+   ```bash
+   cd TicTacToe-Game
+   ```
+
+3. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+## ▶️ Usage
+
 After completing the installation steps:
 
-Start the development server:
+1. **Start the development server**:
 
-bash
-Copy code
-npm start
-Access the game:
-Open your browser and go to http://localhost:3000 to start playing.
+   ```bash
+   npm start
+   ```
 
-🤝 Contributing
+2. **Access the game**:  
+   Open your browser and go to [http://localhost:3000](http://localhost:3000) to start playing.
+
+## 🤝 Contributing
+
 Contributions are welcome! Here's how you can contribute:
 
-Fork the repository.
+1. **Fork the repository**.
+2. **Create a new branch**:
 
-Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
 
-bash
-Copy code
-git checkout -b feature-name
-Make your changes and commit them:
+3. **Make your changes and commit them**:
 
-bash
-Copy code
-git commit -m "Add new feature"
-Push to the branch:
+   ```bash
+   git commit -m "Add new feature"
+   ```
 
-bash
-Copy code
-git push origin feature-name
-Submit a pull request detailing your changes.
+4. **Push to the branch**:
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+   ```bash
+   git push origin feature-name
+   ```
 
+5. **Submit a pull request** detailing your changes.
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
