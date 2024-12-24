@@ -73,6 +73,3 @@ Contributions are welcome! Here's how you can contribute:
 
 5. **Submit a pull request** detailing your changes.
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
